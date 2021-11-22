@@ -3,7 +3,7 @@
 [![](https://jitpack.io/v/ifmvo/TogetherAd.svg)](https://jitpack.io/#ifmvo/TogetherAd)
 ![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)
 
-TogetherAd 是由 Kotlin 编写的 Android 广告聚合开源项目。 能够帮助 Android 开发者快速、便捷、灵活的接入国内多家主流广告 SDK。
+TogetherAd 是由 Kotlin 编写的 Android 广告聚合开源项目。 能够帮助 Android 开发者快速、便捷、灵活的接入国外多家主流广告 SDK。
 
 TogetherAd 也是一种将各个广告提供商``组件化处理``的解决方案。
 
