@@ -37,18 +37,16 @@ TogetherAd 也提供了很多自定义功能，比如：按权重分发广告、
 
 ## 联系我
 
-加我微信，可邀请进微信交流群，更多大佬为你答疑。
+加我微信交流，huolinmufeng
 
-关注公众号，回复 ``apk`` 可下载 Demo Apk 进行体验
 
-<img src="img/ifmvo.jpg"  height="200" width="200"> <img src="img/qrcode_for_gh_e66be0cfb1f0_258.jpg"  height="200" width="200">
 
 ## License
 
 ```
 MIT License
 
-Copyright (c) 2021 陈铭卓
+Copyright (c) 2021 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
